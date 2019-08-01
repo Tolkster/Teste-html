@@ -1,0 +1,33 @@
+p{
+    color:forestgreen
+}
+
+h1{
+    color:darkblue;
+    text-align: center;
+    font-family: monospace;
+}
+
+h2{
+    color: darkorchid;
+    text-align: center;
+}
+
+div id="foto"{
+    align-self: center;
+}
+
+li{
+    color:coral
+}
+
+.cont{
+    color: black;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
